@@ -7,3 +7,4 @@
    git clone https://github.com/iamfaizan14/ElevatorApi/tree/master
    cd ElevatorApi
    npm i
+   npm start
