@@ -4,5 +4,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/iamfaizan14/ElevatorApi/tree/master)
-   cd elevator-api
+   git clone https://github.com/iamfaizan14/ElevatorApi/tree/master
+   cd ElevatorApi
